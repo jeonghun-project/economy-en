@@ -1,8 +1,8 @@
 ---
-title: "Cisco's $9 Billion AI Order Book Is the Real Story Behind the 17% Pop"
+title: "Cisco Stock Jumped 17% — The $9 Billion AI Order Book Nobody Expected"
 date: "2026-05-14"
-description: "Cisco Q3 FY2026 beat estimates, but the 17% after-hours surge was driven by AI infrastructure orders raised to $9B guidance. Here's what the data says for investors."
-tags: ["english", "finance", "Cisco", "CSCO", "AI infrastructure", "earnings", "hyperscaler"]
+description: "Cisco's AI infrastructure orders hit $9B annually, up 80% from prior guidance. Why the stock surged, what it means for AI chip demand, and the 4,000 layoffs paradox."
+tags: ["english", "Cisco stock", "Cisco earnings 2026", "AI infrastructure stocks", "AI stocks to buy", "semiconductor demand"]
 author: "Market Analysis Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/economy-en/main/assets/images/2026-05-14-ciscos-9-billion-ai-order-book-is-the-real-story-behind-the-17-pop-en-featured.png
 lang: en
