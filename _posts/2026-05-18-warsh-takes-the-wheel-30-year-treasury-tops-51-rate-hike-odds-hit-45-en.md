@@ -1,8 +1,8 @@
 ---
-title: "Warsh Takes the Wheel: 30-Year Treasury Tops 5.1%, Rate Hike Odds Hit 45%"
+title: "New Fed Chair's First Week: 30-Year Treasury Tops 5.1% — Is a Rate Hike Coming?"
 date: "2026-05-18"
-description: "Kevin Warsh's first week as Fed Chair: Treasury yields at near one-year highs, rate hike odds soaring from 1% to 45% in a month. What the data says and how to position."
-tags: ["english", "Fed", "Warsh", "Treasury yields", "rate hike", "FOMC", "Nvidia", "finance"]
+description: "Kevin Warsh's first week as Fed chair saw the 30-year yield break 5.1% and rate hike odds hit 45%. What bond investors and stock holders need to know now."
+tags: ["english", "Fed rate hike 2026", "Treasury yield", "bond market", "Kevin Warsh Fed", "interest rate forecast", "stock market crash"]
 author: "Market Analysis Desk"
 image: https://raw.githubusercontent.com/jeonghun-project/economy-en/main/assets/images/2026-05-18-warsh-takes-the-wheel-30-year-treasury-tops-51-rate-hike-odds-hit-45-en-featured.png
 lang: en
